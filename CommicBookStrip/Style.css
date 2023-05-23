@@ -1,0 +1,45 @@
+.jokecontainer {
+  background-color: aqua;
+  border: solid black;
+  text-align: center;
+  height: 80vh;
+  margin: 70px;
+  padding: 30px;
+}
+.topText {
+  border: solid red;
+  font-size: 32px;
+}
+.row1 {
+  display: flex;
+  text-align: center;
+  font-size: 25px;
+  margin: 1em;
+  padding: 10px;
+}
+
+.row2 {
+  display: flex;
+  text-align: center;
+  font-size: 25px;
+  margin: 1em;
+  padding: 10px;
+}
+
+.section {
+  border: solid purple;
+  width: 33%;
+  margin: 6px;
+  margin-bottom: 20px;
+}
+
+.pic {
+  border: solid brown;
+  height: 100%;
+  width: 100%;
+}
+
+.minitext {
+  border: solid green;
+  height: 20%;
+}
